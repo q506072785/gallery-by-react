@@ -1,6 +1,8 @@
 #图片画廊
 
-###在线演示: https://q506072785.github.io/gallery-by-react/
+###在线演示: 
+* https://q506072785.github.io/poster1/
+* https://q506072785.github.io/poster2/
 
 ##安装运行
 
